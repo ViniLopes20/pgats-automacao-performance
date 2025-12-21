@@ -16,8 +16,12 @@ const alunos = [
 ];
 const usuarios = [
     {
-      "login": "admin",
+      "login": "admin1",
       "password": "12345678"
+    },
+    {
+      "login": "admin2",
+      "password": "123456789"
     }
   ];
 const notas = [
